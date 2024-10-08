@@ -74,16 +74,16 @@ This project is licensed under the [MIT License](LICENSE).
 
 ## Contact
 For any questions or suggestions, feel free to reach out:
-- **Hariom**: [Hari](https://github.com/hari7261)
+- **Hariom**: [Hari](https://github.com/whitedevil9911)
 
 ## Project Admin
 
 <table>
   <tr>
     <td align="center">
-      <a href="https://github.com/hari7261">
-        <img src="https://avatars.githubusercontent.com/u/138400713?v=4" width="100px;" alt=""/><br />
-        <sub><b>Hariom Kumar Pandit</b></sub>
+      <a href="https://github.com/whitedevil9911">
+        <img src="https://avatars.githubusercontent.com/u/132771107?v=4" width="100px;" alt=""/><br />
+        <sub><b>Himanshu Kumar</b></sub>
       </a>
     </td>
   </tr>
@@ -95,8 +95,8 @@ For any questions or suggestions, feel free to reach out:
 <table align="center">
   <tr>
     <td align="center">
-      <a href="https://github.com/hari7261/Hacktoberfest-2024/graphs/contributors">
-        <img src="https://contrib.rocks/image?repo=hari7261/Hacktoberfest-2024" alt="Contributors" />
+      <a href="https://github.com/whitedevil9911/Hacktoberfest_2024/graphs/contributors">
+        <img src="https://contrib.rocks/image?repo=whitedevil9911/Hacktoberfest_2024" alt="Contributors" />
       </a>
     </td>
   </tr>
