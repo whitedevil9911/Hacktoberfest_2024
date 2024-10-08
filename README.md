@@ -74,7 +74,7 @@ This project is licensed under the [MIT License](LICENSE).
 
 ## Contact
 For any questions or suggestions, feel free to reach out:
-- **Hariom**: [Hari](https://github.com/whitedevil9911)
+- **Himanshu**: [Hari](https://github.com/whitedevil9911)
 
 ## Project Admin
 
